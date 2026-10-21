@@ -1,2 +1,2 @@
 # banana-grams
-Single Player Banangrams
+Single Player Bananagrams
